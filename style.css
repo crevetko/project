@@ -2,10 +2,6 @@
   font-family: "Snowflake";
   src: url("snowflake/Snowflake.woff"),
   url("snowflake/Snowflake.ttf");
-  src: url("сновфлак/Snowflake.woff"),
-  url("сновфлак/Snowflake.ttf");
-  src: url("snowflake/Snowflake.woff"),
-  url("snowflake/Snowflake.ttf");
 }
 body {
   margin: 0;
@@ -31,8 +27,6 @@ body {
   padding: 32px 0 32px;
   background-color: #00417d;
   color: #ffffff;
-  background-color: #00417d;
-  color: #ffffff;
 }
 
 .page-header .container,
@@ -43,7 +37,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #c7e4ff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;

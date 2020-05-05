@@ -1,12 +1,17 @@
 @font-face {
   font-family: "Snowflake";
 <<<<<<< HEAD
+<<<<<<< HEAD
   src: url("snowflake/Snowflake.woff"),
   url("snowflake/Snowflake.ttf");
 =======
   src: url("сновфлак/Snowflake.woff"),
   url("сновфлак/Snowflake.ttf");
 >>>>>>> 6fb94a4e3b153da304b1476f7c8ee4591023581f
+=======
+  src: url("snowflake/Snowflake.woff"),
+  url("snowflake/Snowflake.ttf");
+>>>>>>> ed3be435d175f9e3a6f5f588da899ee90277f57f
 }
 body {
   margin: 0;
@@ -31,10 +36,15 @@ body {
   margin: 0 0 160px;
   padding: 32px 0 32px;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: #00417d;
   color: #ffffff;
 =======
 >>>>>>> 6fb94a4e3b153da304b1476f7c8ee4591023581f
+=======
+  background-color: #00417d;
+  color: #ffffff;
+>>>>>>> ed3be435d175f9e3a6f5f588da899ee90277f57f
 }
 
 .page-header .container,
